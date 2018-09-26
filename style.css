@@ -1,15 +1,6 @@
 
-.article{
-    background-color: #4e291b;
-    text-align: center;
-    color: white;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    height: 20%;
-};
-
-.card-body{
-    border: blue;
-    border-width: 10px;
-};
+#train-table th,
+td {
+  display: inline-block;
+  width: 16.575%;
+}
